@@ -1,0 +1,356 @@
+/*!
+Theme Name: fuji
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: fuji
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+fuji is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+.woocommerce div.product form.cart div.quantity {
+    float: left;
+    margin: 0px 56px 0px 0px;
+}
+
+.woocommerce .quantity .qty {
+    width: 7em;
+    text-align: center;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
+
+.woocommerce div.product div.images .woocommerce-product-gallery__image:nth-child(n+2) {
+    width: 25%;
+    display: inline-block;
+    border: 2px solid;
+}
+
+a.add_to_wishlist.single_add_to_wishlist.button.alt {
+    border: 2px solid;
+    color: #4B914B;
+}
+
+.woocommerce #content table.cart td.actions .input-text,
+.woocommerce table.cart td.actions .input-text,
+.woocommerce-page #content table.cart td.actions .input-text,
+.woocommerce-page table.cart td.actions .input-text {
+    width: 160px;
+}
+
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt {
+    background-color: rgb(75, 145, 75);
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+}
+
+.entry-header {
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.woocommerce .cart .button,
+.woocommerce .cart input.button {
+    float: none;
+    background-color: #4B914B;
+    color: white;
+}
+
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover {
+    background-color: #ffffff;
+    text-decoration: none;
+    background-image: none;
+    color: #4B914B;
+    border: 2px solid;
+}
+
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+    background-color: #ffffff;
+    color: #4B914B;
+}
+
+.error-btn {
+    border-radius: 4px!important;
+    padding: 1rem 2rem 1rem 2rem!important;
+    background-color: #4B914B;
+    border-color: #4B914B;
+    display: inline-block;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.error-btn:hover {
+    color: #4B914B;
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #4B914B;
+}
+
+ul.a {
+    list-style-type: none;
+}
+
+a.account {
+    text-decoration: none;
+    color: black;
+}
+
+.woocommerce div.product div.summary {
+    width: 100%;
+}
+
+a.product-name {
+    color: black;
+}
+
+.detail-image-slider .images {
+    width: 100% !important;
+}
+
+.single-product div.product .woocommerce-product-gallery img {
+    border: 1px solid;
+    border-color: transparent;
+}
+
+.logo {
+    max-width: 16em !important;
+}
+
+.yith-wcwl-share {
+    display: none;
+}
+
+.wishlist-title-container {
+    display: none;
+}
+
+.woocommerce form .form-row-wide,
+.woocommerce-page form .form-row-wide {
+    line-height: 70px;
+}
+
+.woocommerce .col2-set,
+.woocommerce-page .col2-set {
+    padding-bottom: 85px;
+}
+
+.woocommerce form .form-row select {
+    padding-top: 5px;
+    padding-bottom: 6px;
+}
+
+.select2-container--default .select2-selection--single {
+    padding-top: 3px;
+    padding-bottom: 30px;
+}
+
+.ywbc-barcode-display-value {
+    text-align: left;
+    padding-bottom: 30px;
+}
+
+.ywbc-barcode-image {
+    margin: 0 0;
+}
+
+.woocommerce button.button,
+.woocommerce input.button {
+    background-color: #4B914B;
+    color: #ffffff;
+}
+
+.thmaf-thslider-viewport li.thmaf-thslider-item {
+    width: 300px;
+    margin: 0 0px;
+    border-style: ridge;
+}
+
+.th-del-acnt,
+.thmaf-del-acnt.th-del-acnt:hover {
+    background-color: red;
+    color: #ffffff;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    border-style: ridge;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+
+.thmaf-main-content .address-wrapper {
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.trp-language-switcher {
+    z-index: 999;
+}
+
+.woocommerce-view-order h1.entry-title {
+    opacity: 0;
+}
+
+.trp-language-switcher>div>a:hover {
+    background: #212529!important;
+}
+
+.trp-language-switcher .trp-ls-shortcode-language {
+    background: #212529!important;
+    border: #212529!important;
+}
+
+.trp-language-switcher .trp-ls-shortcode-current-language {
+    background: #212529!important;
+    border-color: #212529!important;
+}
+
+.delivery_option label.radio {
+    display: inline-block !important;
+    width: 90%;
+    margin-top: 25px;
+    line-height: 25px !important;
+}
+
+.delivery_option input[type=radio] {
+    width: 10%;
+    display: inline-block !important;
+    vertical-align: middle;
+}
+
+.byc-please-wait {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 54, 94, 0.8);
+    z-index: 9999999;
+    top: 0;
+    display: none;
+}
+
+.byc-please-wait div {
+    width: 100vw;
+    height: 100vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #FFF;
+    font-weight: 500;
+}
+
+.byc-please-wait .lds-ring {
+    display: inline-block;
+    position: relative;
+    width: 2rem;
+    height: 2rem;
+    margin-right: 0.9375rem;
+}
+
+.byc-please-wait .lds-ring div {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    width: 2rem;
+    height: 2rem;
+    border: 0.25rem solid #FFF;
+    border-top-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-left-color: rgb(255, 255, 255);
+    -webkit-border-radius: 50%;
+    -khtml-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    border-color: #fff transparent transparent transparent;
+}
+
+.loader {
+    -webkit-animation: spin 0.8s linear infinite;
+    /* Safari */
+    animation: spin 0.8s linear infinite;
+}
+
+
+/* Safari */
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.pagination {
+    display: inline-block;
+    font-size: 10px;
+    column-gap: 2px;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+}
+
+.pagination a.active {
+    background-color: #4B914B;
+    color: white;
+    border: 1px solid #4B914B;
+}
+
+.pagination a:hover:not(.active) {
+    background-color: #ddd;
+}

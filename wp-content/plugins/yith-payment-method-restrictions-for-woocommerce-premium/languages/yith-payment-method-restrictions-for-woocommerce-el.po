@@ -1,0 +1,468 @@
+# Translation of YITH Payment Method Restrictions for WooCommerce Premium in Greek
+# This file is distributed under the same license as the YITH Payment Method Restrictions for WooCommerce Premium package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Payment Method Restrictions for WooCommerce "
+"Premium\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-payment-"
+"method-restrictions-for-woocommerce-premium\n"
+"POT-Creation-Date: 2021-03-08 12:25:35+00:00\n"
+"PO-Revision-Date: 2021-02-19 12:05:20+0000\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin-premium.php:59
+msgid "BACS account"
+msgstr "Λογαριασμός BACS"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin-premium.php:61
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin.php:125
+msgid "Rules"
+msgstr "Κανόνες"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin.php:129
+msgid "Premium Version"
+msgstr "Premium Έκδοση"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin.php:197
+msgid "Plugin documentation"
+msgstr "Εγχειρίδιο χρήσης προσθέτου"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin.php:201
+msgid "Help Center"
+msgstr "Κέντρο Βοήθειας"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin.php:205
+msgid "Support platform"
+msgstr "Πλατφόρμα υποστύριξης"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin.php:209
+msgid "Changelog"
+msgstr "Σύνοψη αλλαγών"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin.php:209
+msgid "current version"
+msgstr "τρέχουσα έκδοση"
+
+#: includes/class.yith-wcpmr-payment-restrictions-admin.php:292
+msgid "YITH Plugins"
+msgstr "Πρόσθετα YITH"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:29
+msgid "Payment method restriction"
+msgstr "Περιορισμός μεθόδου πληρωμής"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:30
+msgid "Payment method restrictions"
+msgstr "Περιορισμοί μεθόδου πληρωμής"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:42
+msgid "Rule name"
+msgstr "Όνομα κανόνα"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:43
+msgid "Payment Method"
+msgstr "Μέθοδος Πληρωμής"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:44
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:59
+msgid "All"
+msgstr "Όλα"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:60
+msgid "Published"
+msgstr "Δημοσιευμένο"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:61
+msgid "Trash"
+msgstr "Κάδος Ανακύκλωσης"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:166
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:168
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:221
+msgid "Delete permanently"
+msgstr "Μόνιμη διαγραφή"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:225
+#: templates/metabox/wcpmr-conditions-row-premium.php:244
+#: templates/metabox/wcpmr-conditions-row.php:68
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#. translators: %s: post title
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:261
+msgid "Edit %s"
+msgstr "Επεξεργασία %s"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:262
+#: includes/class.yith-wcprm-post-types.php:96
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#. translators: %s: post title
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:272
+msgid "Restore %s from the Trash"
+msgstr "Επαναφορά %s από Κάδο Ανακύκλωσης"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:273
+msgid "Restore"
+msgstr "Επαναφορά"
+
+#. translators: %s: post title
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:280
+msgid "Move %s to the Trash"
+msgstr "Μεταφορά %s σε Κάδο Ανακύκλωσης"
+
+#. translators: %s: post title
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:289
+msgid "Delete %s permanently"
+msgstr "Μόνιμη διαγραφή %s"
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:290
+msgid "Delete Permanently"
+msgstr "Μόνιμη Διαγραφή"
+
+#: includes/class.yith-wcprm-post-types.php:92
+#: includes/class.yith-wcprm-post-types.php:93
+#: includes/class.yith-wcprm-post-types.php:110
+msgid "Payment Method Restrictions"
+msgstr "Περιορισμοί Μεθόδου Πληρωμής"
+
+#: includes/class.yith-wcprm-post-types.php:94
+msgid "Add new rule"
+msgstr "Προσθήκη νέου κανόνα"
+
+#: includes/class.yith-wcprm-post-types.php:95
+msgid "Add New Rule"
+msgstr "Προσθήκη Νέου Κανόνα"
+
+#: includes/class.yith-wcprm-post-types.php:97
+msgid "Edit Rule"
+msgstr "Επεξεργασία Κανόνα"
+
+#: includes/class.yith-wcprm-post-types.php:98
+msgid "New Rule"
+msgstr "Νέος Κανόνας"
+
+#: includes/class.yith-wcprm-post-types.php:99
+#: includes/class.yith-wcprm-post-types.php:100
+msgid "View Rule"
+msgstr "Προβολή Κανόνα"
+
+#: includes/class.yith-wcprm-post-types.php:101
+msgid "Search Rules"
+msgstr "Αναζήτηση Κανόνων"
+
+#: includes/class.yith-wcprm-post-types.php:102
+msgid "No Rules found"
+msgstr "Δεν βρέθηκαν Κανόνες"
+
+#: includes/class.yith-wcprm-post-types.php:103
+msgid "No Rules found in trash"
+msgstr "Δεν βρέθηκαν Κανόνες στον κάδο ανακύκλωσης"
+
+#: includes/class.yith-wcprm-post-types.php:104
+msgid "Parent Rules"
+msgstr "Γονικοί Κανόνες"
+
+#: includes/class.yith-wcprm-post-types.php:106
+msgid "All YITH Rules"
+msgstr "Όλοι οι Κανόνες YITH"
+
+#: includes/class.yith-wcprm-post-types.php:112
+msgid "This is where rules are stored."
+msgstr "Εδώ αποθηκεύονται οι κανόνες."
+
+#: includes/class.yith-wcprm-post-types.php:139
+msgid "Payment method restriction rule"
+msgstr "Κανόνας περιορισμού μεθόδου πληρωμής"
+
+#: includes/class.yith-wcprm-post-types.php:236
+msgid "Back to rules"
+msgstr "Πίσω στους κανόνες"
+
+#: includes/compatibility/class.yith-wcpmr-subscription-compatibility.php:86
+#: templates/metabox/wcpmr-conditions-row-premium.php:52
+#: templates/metabox/wcpmr-conditions-row.php:47
+msgid "Search for a product&hellip;"
+msgstr "Αναζήτηση προϊόντος&hellip;"
+
+#: includes/functions.yith-wcpmr-premium.php:5
+msgid "Restriction by:"
+msgstr "Περιορισμός κατα:"
+
+#: includes/functions.yith-wcpmr-premium.php:6
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: includes/functions.yith-wcpmr-premium.php:7
+msgid "Tag"
+msgstr "Ετικέτα"
+
+#: includes/functions.yith-wcpmr-premium.php:8
+msgid "Product"
+msgstr "Προϊόν"
+
+#: includes/functions.yith-wcpmr-premium.php:9
+msgid "Price"
+msgstr "Τιμή"
+
+#: includes/functions.yith-wcpmr-premium.php:10
+msgid "Geolocalization"
+msgstr "Γεωτοποθεσία"
+
+#: includes/functions.yith-wcpmr-premium.php:11
+msgid "Role"
+msgstr "Ρόλος"
+
+#: includes/functions.yith-wcpmr-premium.php:12
+msgid "User"
+msgstr ""
+
+#: includes/functions.yith-wcpmr-premium.php:78
+msgid "Guest"
+msgstr "Επισκέπτης"
+
+#: includes/functions.yith-wcpmr.php:19
+msgid "Type of restriction:"
+msgstr "Τύπος περιορισμού:"
+
+#: includes/functions.yith-wcpmr.php:20
+msgid "Include at least one of"
+msgstr "Να περιλαμβάνεται τουλάχιστον ένα από"
+
+#: includes/functions.yith-wcpmr.php:21
+msgid "Include all"
+msgstr "Να περιλαμβάνονται όλα"
+
+#: includes/functions.yith-wcpmr.php:22
+msgid "Does not contain"
+msgstr "Δεν περιλαμβάνει"
+
+#: includes/functions.yith-wcpmr.php:30
+msgid "Less than"
+msgstr "Λιγότερο από"
+
+#: includes/functions.yith-wcpmr.php:31
+msgid "Less than or equal to"
+msgstr "Λιγότερο από ή ίσο με"
+
+#: includes/functions.yith-wcpmr.php:32
+msgid "Equal to"
+msgstr "Ίσο με"
+
+#: includes/functions.yith-wcpmr.php:33
+msgid "Greater than or equal to"
+msgstr "Μεγαλύτερο από ή ίσο με"
+
+#: includes/functions.yith-wcpmr.php:34
+msgid "Greater than"
+msgstr "Μεγαλύτερο από"
+
+#: plugin-options/general-settings-options.php:28
+msgid "How does geolocation work?"
+msgstr "Πώς λειτουργεί η γεωτοποθεσία;"
+
+#: plugin-options/general-settings-options.php:33
+msgid "Using IP Geolocalization"
+msgstr "Να χρησιμοποιείται IP Γεωτοποθεσίας"
+
+#: plugin-options/general-settings-options.php:34
+msgid "Using Billing Country"
+msgstr "Να χρησιμοποιείται Χώρα Χρέωσης"
+
+#: templates/admin/bacs-account-tab.php:7
+msgid "Account details"
+msgstr "Στοιχεία λογαριασμού"
+
+#: templates/admin/bacs-account-tab.php:12
+msgid "Account name"
+msgstr "Όνομα λογαριασμού"
+
+#: templates/admin/bacs-account-tab.php:13
+msgid "Account number"
+msgstr "Αριθμός λογαριασμού"
+
+#: templates/admin/bacs-account-tab.php:14
+msgid "Bank name"
+msgstr "Όνομα τράπεζας"
+
+#: templates/admin/bacs-account-tab.php:15
+msgid "Sort code"
+msgstr "Μικροκώδικας"
+
+#: templates/admin/bacs-account-tab.php:16
+msgid "IBAN"
+msgstr "IBAN"
+
+#: templates/admin/bacs-account-tab.php:17
+msgid "BIC / Swift"
+msgstr "BIC / Swift"
+
+#: templates/admin/bacs-account-tab.php:43
+msgid "+ Add account"
+msgstr "+ Προσθήκη λογαριασμού"
+
+#: templates/admin/bacs-account-tab.php:43
+msgid "Remove selected account(s)"
+msgstr "Αφαίρεση επιλεγμένου λογαριασμού(ών)"
+
+#: templates/admin/bacs-account-tab.php:49
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: templates/admin/payment-restriction-tab.php:19
+msgid "Payment Method Restrictions Rules"
+msgstr "Κανόνες Περιορισμού Μεθόδου Πληρωμής"
+
+#: templates/admin/payment-restriction-tab.php:19
+msgid "Add new"
+msgstr "Προσθήκη νέου"
+
+#: templates/metabox/wcpmr-conditions-row-premium.php:111
+msgid "Search for a category&hellip;"
+msgstr "Αναζήτηση κατηγορίας&hellip;"
+
+#: templates/metabox/wcpmr-conditions-row-premium.php:149
+msgid "Search for a tag&hellip;"
+msgstr "Αναζήτηση ετικέτας&hellip;"
+
+#: templates/metabox/wcpmr-conditions-row-premium.php:229
+#, fuzzy
+msgid "Search for a user&hellip;"
+msgstr "Αναζήτηση ετικέτας&hellip;"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:10
+msgid "Disable:"
+msgstr "Απενεργοποίηση:"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:12
+msgid "Check this option to disable payment restriction rule"
+msgstr ""
+"Κάντε κλικ στην επιλογή για να απενεργοποιήσετε τον κανόνα περιορισμού "
+"πληρωμής"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:15
+#: templates/metabox/wcpmr-template-restriction.php:9
+msgid "Payment method gateway:"
+msgstr "Πύλη μεθόδου πληρωμής:"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:26
+msgid "What to do with this payment gateway?"
+msgstr "Τι θα θέλατε να κάνετε με αυτή την πύλη πληρωμής;"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:27
+msgid "Remove payment method"
+msgstr "Αφαίρεση μεθόδου πληρωμής"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:29
+msgid "Change BACS account"
+msgstr "Αλλαγή λογαριασμού BACS"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:38
+msgid "Select bank transfer account:"
+msgstr "Επιλέξτε τραπεζικό λογαριασμό μεταφοράς:"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:56
+#: templates/metabox/wcpmr-template-restriction.php:20
+msgid "Conditions:"
+msgstr "Συνθήκες:"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:73
+#: templates/metabox/wcpmr-template-restriction.php:38
+msgid "+ Add new condition"
+msgstr "+ Προσθήκη νέας συνθήκης"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:78
+msgid "Message:"
+msgstr "Μήνυμα:"
+
+#: templates/metabox/wcpmr-template-restriction-premium.php:81
+msgid "Enter here the reason why the payment gateway is disabled"
+msgstr "Εισάγετε εδώ την αιτία που η πύλη πληρωμής είναι απενεργοποιημένη"
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH Payment Method Restrictions for WooCommerce Premium</"
+"strong></code> allows you to hide specific payment methods based on the "
+"products in cart or on user's origin.  <a href=\"https://yithemes.com/\" "
+"target=\"_blank\">Get more plugins for your e-commerce on <strong>YITH</"
+"strong></a>."
+msgstr ""
+"Το <code><strong>YITH Payment Method Restrictions for WooCommerce Premium</"
+"strong></code> σας επιτρέπει να κάνετε απόκρυψη συγκεκριμένων μεθόδων "
+"πληρωμής βάσει των προϊόντων που έχετε στο καλάθι ή βάση της προέλευσης "
+"χρήστη.  <a href=\"https://yithemes.com/\" target=\"_blank\">Βρείτε "
+"περισσότερα πρόσθετα για το ηλεκτρονικό σας κατάστημα στο <strong>YITH</"
+"strong></a>."
+
+#: includes/class.yith-wcpmr-payment-restrictions-list.php:281
+msgctxt "verb"
+msgid "Trash"
+msgstr "Κάδος Ανακύκλωσης"
+
+#: includes/class.yith-wcprm-post-types.php:105
+msgctxt "Admin menu name"
+msgid "YITH Rules"
+msgstr "Κανόνες YITH"
+
+#: init.php:38
+msgctxt "Alert Message: WooCommerce requires"
+msgid ""
+"YITH Payment Method Restrictions is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"Το YITH Payment Method Restrictions είναι ενεργοποιημένο αλλά "
+"αναποτελεσματικό. Για σωστή λειτουργία απαιτείται WooCommerce."
+
+#: plugin-options/general-settings-options.php:14
+msgctxt "Panel: page title"
+msgid "General settings"
+msgstr "Γενικές ρυθμίσεις"
+
+#: plugin-options/general-settings-options.php:20
+msgctxt "Admin option: Show Payment Restriction option for shop managers"
+msgid "Show Payment Restriction option for shop manager"
+msgstr "Εμφάνιση επιλογής Περιορισμού Πληρωμής για διαχειριστή καταστήματος"
+
+#: plugin-options/general-settings-options.php:22
+msgctxt ""
+"Admin option description: Check this option to manage payment restriction "
+"option for shop manager role"
+msgid ""
+"Check this option to manage payment restriction option for shop manager role"
+msgstr ""
+"Κάντε κλικ στην επιλογή για να διαχειρίζεται την επιλογή περιορισμού "
+"πληρωμής ο ρόλος διαχειριστή καταστήματος"
+
+#~ msgid "http://yithemes.com/"
+#~ msgstr "http://yithemes.com/"
+
+#~ msgid "YITH"
+#~ msgstr "YITH"
+
+#~ msgid ""
+#~ "https://yithemes.com/themes/plugins/yith-payment-method-restrictions-for-"
+#~ "woocommerce/"
+#~ msgstr ""
+#~ "https://yithemes.com/themes/plugins/yith-payment-method-restrictions-for-"
+#~ "woocommerce/"
+
+#~ msgid "YITH Payment Method Restrictions for WooCommerce Premium"
+#~ msgstr "YITH Payment Method Restrictions for WooCommerce Premium"
